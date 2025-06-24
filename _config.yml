@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -12,7 +12,7 @@ title                    : "Morgan's Homepage"
 title_separator          : "-"
 name                     : &name "Morgan W. Masters"
 description              : &description "Bookmark this to keep an eye on my project updates!"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://morganmasters.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MorganMasters/MorganMasters.github.io"
 
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Quick Facts"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Ph.D. Student, Electrical and Computer Engineering"
   location         : "Santa Cruz, California"
   employer         : "University of California at Santa Cruz"
   uri              : # URL
-  email            : "mwmaster at ucsc dot edu (mwmaster@uscs.edu)" 
+  email            : "mwmaster at ucsc dot edu (mwmaster@uscs.edu)"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,8 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "MorganMasters"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username

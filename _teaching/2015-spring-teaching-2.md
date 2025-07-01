@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 2"
+title: "PHYS 114-115-116 Sequence"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/2018-uw-phys
+venue: "University of Washington, Physics"
 date: 2015-01-01
-location: "City, Country"
+location: "Seattle, Washington, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The PHYS 114-115-116 introductory physics sequence is targeted for students in life sciences. Upon successful completion students should be able to develop algebra-based models to describe the physical world and apply them to other fields of science and everyday phenomena. Each course consists of two major components: lecture and tutorial. There is no lab component in these courses. But there are associated lab courses, PHYS 117-118-119.
 
-Heading 1
+PHYS 114
 ======
+Covers: Scaling; 1D and 2D kinematics; Forces; Circular and rotational motion; Rotational dynamics; Static equilibrium; Momentum; Work and energy
 
-Heading 2
-======
+I taught both lab (PHYS 117) and tutorial sections.
 
-Heading 3
+
+PHYS 115
 ======
+Covers: Electric force, field, potential, and potential energy; Electric circuits; Magnetic field and force; Thermodynamics; Ideal gas law; Fluids
+
+I taught tutorial sections.
+
+
+PHYS 116
+======
+Covers: Oscillations; Mechanical waves; Physical optics; Geometric optics; Electromagnetic waves; Matter waves; Atomic physics; Nuclear physics

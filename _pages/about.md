@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Get the robots dirty! Farms and wildlands; food, not bombs."
+title: "Get the robots dirty! Farms and wildlands; Food, not bombs."
 author_profile: true
 redirect_from:
   - /about/

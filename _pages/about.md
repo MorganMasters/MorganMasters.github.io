@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Get the robots dirty! Farms and wildlands; Food, not bombs."
+title: "Get the robots dirty!"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student at the University of California at Santa Cruz, focused on field robotics for advanced sensing in agroecology.
 My co-advisors are Dr. Steve McGuire (field robotics) and Dr. Colleen Josephson (advanced sensing).
-My role is to implement robotics systems to persistently monitor arrays of Dr. Josephson's ultra-low power sensing modalitiesand the environments they are embedded in.
+My role is to implement robotics systems to persistently monitor arrays of Dr. Josephson's ultra-low power sensing modalities and the environments they are embedded in.
 Concurrently, I work at at the Applied Physics Laboratory of the University of Washington,
 developing physics-informed, deep-learning-based visual tracking solutions for applications in marine robotics.
 

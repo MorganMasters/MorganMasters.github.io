@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a PhD student at the University of California at Santa Cruz, focused on
-field robotics as monitors for remote wireless sensor networks (WSNs).
+using field robotics as monitors for remote wireless sensor networks (WSNs).
 My co-advisors are Dr. Steve McGuire (field robotics) and Dr. Colleen Josephson
 (WSNs).
 

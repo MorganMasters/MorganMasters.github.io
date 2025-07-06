@@ -16,7 +16,7 @@ Education
 * B.S. in Physics and Mathematics, Iowa State University, 2018
 * B.S. in Materials Engineering, Iowa State University, 2018
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -40,7 +40,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======

@@ -44,8 +44,8 @@ Skills
 
 Awards
 ======
-2024, 2025 USDA Agricultural Experiment Station Fellow
-Champion, 2025 ESWEEK Special Interest Group on Embedded Systems Student Research Competition
+* 2024, 2025 USDA Agricultural Experiment Station Fellow
+* Champion, 2025 ESWEEK Special Interest Group on Embedded Systems Student Research Competition
 
 Publications
 ======

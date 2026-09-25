@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "BirdsEye: Enabling Rapid Supervised Image Dataset Creation for Geospatial-AI"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-09-30-sigbed-src
@@ -8,6 +8,9 @@ date: 2025-09-30
 location: "Taipei, Taiwan"
 ---
 
-[More information here](http://exampleurl.com)
+Winning entry in the SIGBED Student Research Competition: a UAV-based geospatial
+annotation pipeline that replaces manual image labeling with RTK-accurate ground
+geotagging, producing 55,600 annotations across 12,500 images in about 12 hours
+of field labor.
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[Slides (PDF)](/files/sigbed-src-2025-slides.pdf) | [Extended abstract](/files/sigbed-src-2025-abstract.pdf) | [Announcement](/posts/2025/09/sigbed-src-champion/)

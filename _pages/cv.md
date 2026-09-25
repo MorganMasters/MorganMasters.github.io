@@ -44,8 +44,9 @@ Skills
 
 Awards
 ======
-* 2024, 2025 USDA Agricultural Experiment Station Fellow
-* Champion, 2025 ESWEEK Special Interest Group on Embedded Systems Student Research Competition
+* Champion, ACM SIGBED Student Research Competition, ESWEEK 2025
+* Finalist, Farm Robotics Challenge & Academy 2026 (Division I) — team Slugriculture, UC Santa Cruz
+* USDA Agricultural Experiment Station Fellow, 2024 and 2025
 
 Publications
 ======

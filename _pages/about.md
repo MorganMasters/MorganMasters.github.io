@@ -7,33 +7,45 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of California at Santa Cruz, focused on
-using field robotics as monitors for remote wireless sensor networks (WSNs).
-My co-advisors are Dr. Steve McGuire (field robotics) and Dr. Colleen Josephson
-(WSNs).
+{% include base_path %}
 
-My role is to implement robotics systems to persistently monitor arrays of Dr.
-Josephson's ultra-low power sensing modalities and the environments they are
-embedded in.
-Concurrently, I work at at the Applied Physics Laboratory of the University of
-Washington, developing physics-informed, deep-learning-based visual tracking
-solutions for applications in marine robotics.
+I am a Ph.D. student in Electrical and Computer Engineering at UC Santa Cruz,
+building field-robotics systems that keep an eye on things people cannot afford
+to watch by hand — remote wireless sensor networks, working farms, and the
+environments they sit in. I am co-advised by Dr. Steve McGuire (field robotics)
+and Dr. Colleen Josephson (wireless sensing). I also work at the University of
+Washington's Applied Physics Laboratory on physics-informed deep-learning visual
+tracking for marine robotics.
 
-I am broadly interested in the mathematical design and development of traversal
-strategies for field robotics systems to collect the most informative dataset,
-given mission constraints.
-Some specific topics I am interested in are:
-+ The traversal of a geotagged environment to collect user-curated imagery of a
-flight, to create supervised learning datasets for robotic vision models,
-+ Compressive sensing schemes for subsampling overly-large arrays of
-environmental sensors for accurate state estimation.
-+ The traversal of environments in order to compile the best set of views to
-train novel view synthesis methods.
-All of these share roots in combinatorial optimization problems, like the
-traveling salesman and next-best view planning problem.
+My research question is a planning question: **given a mission budget, which
+traversal collects the most informative dataset?** Three threads, all rooted in
+combinatorial optimization — traveling-salesman and next-best-view planning:
 
-My M.S. in Applied Mathematics was earned in 2019 at the University of
-Washington, focused on the work of Dr. J. Nathan Kutz.
-I also earned two B.S. degrees in: (i.) Physics and Mathematics and (ii.)
-Materials Science & Engineering in 2018 from Iowa State University, advised by
-Dr. Paul C. Canfield.
++ Traversing a geotagged environment to collect user-curated imagery, turning a
+  single flight into a supervised training dataset for robotic vision models.
++ Compressive-sensing schemes that subsample oversized environmental sensor
+  arrays without losing state-estimation accuracy.
++ Choosing the set of views that best trains novel view synthesis methods.
+
+That work ships as **BirdsEye**, a low-cost UAV and RTK geoannotation pipeline
+that replaces manual image labeling with ground-based geotagging. It won the
+[ACM SIGBED Student Research Competition at ESWEEK 2025](/posts/2025/09/sigbed-src-champion/)
+and reached the [finals of the Farm Robotics Challenge & Academy 2026](/posts/2026/08/frc-2026-finalist/).
+
+Before UC Santa Cruz: M.S. in Applied Mathematics (University of Washington,
+2019, with Dr. J. Nathan Kutz) and B.S. degrees in Physics & Mathematics and in
+Materials Science & Engineering (Iowa State University, 2018, advised by Dr.
+Paul C. Canfield).
+
+## Recent news
+
+<ul>
+{% for post in site.posts limit: 3 %}
+  <li>
+    <strong>{{ post.date | date: "%B %Y" }}</strong> —
+    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+[All news &rarr;](/news/)

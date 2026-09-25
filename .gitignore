@@ -10,3 +10,8 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Local-only source artifacts: not linked from the site, kept out of the repo
+files/*.pptx
+files/MDPI_Birdseye_v3-13.pdf
+files/Decision Letter _ IEEE_TASE.pdf

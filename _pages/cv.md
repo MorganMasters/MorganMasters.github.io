@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Field Robotics and Remote Sensing, University of California - Santa Cruz, 2026 (expected)
+* Ph.D. in Electrical and Computer Engineering (Field Robotics and Remote Sensing), University of California - Santa Cruz, 2027 (expected)
+* M.S. in Electrical and Computer Engineering, University of California - Santa Cruz, 2023
 * M.S. in Applied Mathematics, University of Washington, 2019
 * B.S. in Physics and Mathematics, Iowa State University, 2018
 * B.S. in Materials Engineering, Iowa State University, 2018

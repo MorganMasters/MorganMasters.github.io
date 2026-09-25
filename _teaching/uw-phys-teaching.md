@@ -1,10 +1,10 @@
 ---
 title: "PHYS 114-115-116 Sequence"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2018-uw-phys
 venue: "University of Washington, Physics"
-date: 2015-01-01
+date: 2018-09-24
 location: "Seattle, Washington, USA"
 ---
 
